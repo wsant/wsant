@@ -13,7 +13,7 @@ After solidifying my foundation in programming logic with Python, I am currently
 
 ## 🚀 Sobre Mim
 
-Técnico de hardware com 5 anos of experiência e agora em **transição de carreira para a área de Desenvolvimento de Software**, com foco total no ecossistema Apple. Minha jornada é movida pela busca de desafios, pela paixão por tecnologia e pelo objetivo de construir aplicativos intuitivos e de alta performance com **Swift e SwiftUI**.
+Técnico de hardware com 5 anos de experiência e agora em **transição de carreira para a área de Desenvolvimento de Software**, com foco total no ecossistema Apple. Minha jornada é movida pela busca de desafios, pela paixão por tecnologia e pelo objetivo de construir aplicativos intuitivos e de alta performance com **Swift e SwiftUI**.
 
 Depois de solidificar minha base em lógica de programação com Python, estou atualmente imerso no curso **"100 Days of SwiftUI"** de Paul Hudson, construindo projetos práticos e aprofundando meu conhecimento no desenvolvimento nativo para iOS.
 
